@@ -1,0 +1,5 @@
+data/rooms/*.json
+data/rooms/*.tmp
+__pycache__/
+*.pyc
+venv/
